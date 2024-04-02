@@ -1,7 +1,7 @@
 {
-    "name": "Kuroro op",
-    "website": "https://www.example.com",
+    "name": "Kuroro OP",
+    "website": "https://raw.githubusercontent.com/thekuroro/misc/main/metadata.json",
     "description": "I operate on some data",
-    "logo": "https://www.example.com/logo.png",
+    "logo": "https://raw.githubusercontent.com/thekuroro/misc/main/eigenlayer.png",
     "twitter": "https://x.com/example"
 }
